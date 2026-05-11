@@ -1,18 +1,18 @@
-# Job-Portal by Gunesh Shanbhag
+# Job-Portal by Kazzy
 
 Made with Core PHP and Bootstrap CSS Framework. 🤍
 
-![visitors](https://bit.ly/30KYszm)
+
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/gshanbhag525/Job-Portal.git
+ https://github.com/taiwokassim/trustlance
 ```
 
-import the git_repos_jobportal.sql in the xampp mysql database.
+import the git_repos_database.sql in the xampp mysql database.
 
 
 Paste the job portal code in htdocs folder. (found in WAMPP, XAMMP, MAMPP installation folder)
@@ -20,7 +20,7 @@ Paste the job portal code in htdocs folder. (found in WAMPP, XAMMP, MAMPP instal
 Start the Apache and Mysql services from the MAMPP server (mac), XAMPP server (windows).
 
 ```bash
-  cd Job-Portal
+  cd trustlance
 ```
 
 Open db.php
